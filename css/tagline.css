@@ -1,0 +1,6 @@
+.js-intro-mobile{opacity:0}
+.intro-mobile h1{text-align:center}
+.intro-mobile .tagline__column{display:block}
+.intro-mobile .tagline__content{position:inherit;opacity:1}
+.intro-mobile .tagline__content li{-webkit-column-break-inside:avoid;-moz-column-break-inside:avoid;break-inside:avoid}
+.intro-mobile .tagline__word:not(.tagline__word--active){opacity:.2}
